@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manula Dissanayake</h1>
+<h1 align="center">Hi 👋, I'm Manula </h1>
 <h3 align="center">Physics Enthusiast|Simulation Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamuditha000&label=Profile%20views&color=0e75b6&style=flat" alt="chamuditha000" /> </p>
