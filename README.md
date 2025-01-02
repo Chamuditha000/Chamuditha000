@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Developing an Interactive Computer Interface/ Game to Simulate Particle Collisions-based on CERN Accelerator Complex**
 
-- 🌱 I’m currently learning **computational phPhoton Engine**
+- 🌱 I’m currently learning **computational physics & Photon Engine**
 
 - 👯 I’m looking to collaborate on **Civilization of Makudians**
 
