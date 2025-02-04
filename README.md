@@ -27,7 +27,8 @@
 
 
 ## 🛒 My Products  
-Check out my 3D models on [TurboSquid](https://www.squid.io/turbosquid/products).  
+Check out my 3D models on <a href="https://www.turbosquid.com/Search/Artists/Makusaa" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Turbosquid-logo-full-transp.png/220px-Turbosquid-logo-full-transp.png" alt="turbo" width="100" height="40"/> </a>
+ 
 
 
 <h3 align="left">Support:</h3>
